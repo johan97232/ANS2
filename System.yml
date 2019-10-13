@@ -1,0 +1,6 @@
+---
+- Hosts: all
+  become: yes
+  become_user: root
+  roles:
+        - "Common"
