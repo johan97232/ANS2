@@ -1,5 +1,5 @@
 ---
- - name:"création utilisateur"
+ - name: "création utilisateur"
    user:
             name: "nouveaucompte"
             password: '*'
