@@ -7,6 +7,6 @@
   become_user: root
   roles:
   - role: ome.mysql_backup
-    mysql_backup_dir: /nfs/backups
-    mysql_backup_filename_format: "{{ ansible_hostname }}-%a.mysqldump"
+    mysql_backup_dir: /vars/backups/databases
+    mysql_backup_filename_format: "{{ ansible_hostname }}-%Y%m%d.mysqldump"
     mysql_backup_minimum_expected_size: 100000
