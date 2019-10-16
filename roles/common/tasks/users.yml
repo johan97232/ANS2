@@ -3,12 +3,13 @@
    user:
             name: "{{item.name}}"
             password: "{{item.password}}"
-   loop: "{{utilisateur}}"
+            #  loop: "{{utilisateur}}"
    #        name: "nouveaucompte"
    #        password: '*'
-   #        groups:
-   #              - sudo
-   #              - itescia
-   #        state: present 
-   #        createhome: yes
-   #        home: /home/nouveaucompte
+            groups:
+                  - sudo
+                  - itescia
+            state: present 
+            createhome: yes
+            #home: /home/"{{item.name}}"
+   loop: "{{utilisateur}}"          
