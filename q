@@ -1,0 +1,95 @@
+[33mcommit 9a455bc65fcaeca1ba374d6b67398e86fe627041[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ted.boss <ted@gmail.com>
+Date:   Wed Oct 16 11:53:40 2019 +0000
+
+    variable utilisateur v2
+
+[33mcommit c4eee64b3aed3c7f59ecb24f307cc184bfb018c5[m
+Author: ted.boss <ted@gmail.com>
+Date:   Wed Oct 16 10:26:22 2019 +0000
+
+    variable utilisateur fin
+
+[33mcommit 3608bfcc0536b9c11515a94cd606cbe5fc223642[m
+Author: ted.boss <ted@gmail.com>
+Date:   Wed Oct 16 09:12:53 2019 +0000
+
+    utilisation de variable
+
+[33mcommit ae8ec2ef172267988fb7de19b847eb3374c8537d[m
+Author: johan <villatajo@gmailcom>
+Date:   Tue Oct 15 15:07:30 2019 +0200
+
+    correction script sauvegarde
+
+[33mcommit c24d3eb5f1f80d69338eeb5c7a56fb07b76f024e[m
+Author: johan <villatajo@gmailcom>
+Date:   Tue Oct 15 15:04:10 2019 +0200
+
+    sauvegarde de toutes la base dans /var
+
+[33mcommit 6030c85fc811f3a522188ac2dd75c75ba7ddb6a3[m
+Author: johan <villatajo@gmailcom>
+Date:   Tue Oct 15 14:07:15 2019 +0200
+
+    test de sauvegarde
+
+[33mcommit 17461d3cf626033be36f283a685a4a88650bc650[m
+Author: ted.boss <ted@gmail.com>
+Date:   Tue Oct 15 11:40:03 2019 +0000
+
+    my SQL installé
+
+[33mcommit e692668985550a2daa644a95393f1ceaf3d43da9[m
+Author: johan <villatajo@gmailcom>
+Date:   Tue Oct 15 11:58:21 2019 +0200
+
+    ajout main
+
+[33mcommit d915ec10bef10dcfe7487525ee30c6cc997cf56f[m
+Author: johan <villatajo@gmailcom>
+Date:   Tue Oct 15 11:37:55 2019 +0200
+
+    projet sql
+
+[33mcommit efc6c44bc32cda33349857ab7020e5ee3435a2ba[m
+Author: ted.boss <ted@gmail.com>
+Date:   Tue Oct 15 08:07:25 2019 +0000
+
+     fonctionne
+
+[33mcommit b97f20d0a590f4893c40c020ba576226389745ed[m
+Author: johan <villatajo@gmailcom>
+Date:   Mon Oct 14 14:00:00 2019 +0200
+
+    azerty
+
+[33mcommit 420b827dd16802dbebe4840ac92cf9562a3d0a12[m
+Author: johan <villatajo@gmailcom>
+Date:   Mon Oct 14 13:52:42 2019 +0200
+
+    ANS2
+
+[33mcommit a3cf2c78132e761fdbc5397481f1a593972c53c3[m
+Author: johan <villatajo@gmailcom>
+Date:   Mon Oct 14 13:34:13 2019 +0200
+
+    testest
+
+[33mcommit 7520ac78441caf49d2aaf567d2bccadabf2df23d[m
+Author: ted.boss <ted@gmail.com>
+Date:   Sun Oct 13 20:25:44 2019 +0000
+
+    monster
+
+[33mcommit c3ec61246506a526c03f85d3cd18b1f212d7359e[m
+Author: johan <villatajo@gmailcom>
+Date:   Sun Oct 13 21:06:33 2019 +0200
+
+    cretaion projet ansible
+
+[33mcommit ecc547c0307f6b940517f68ace457051989e2de0[m
+Author: johan <villatajo@gmailcom>
+Date:   Sun Oct 13 20:23:13 2019 +0200
+
+    debut du git

@@ -18,3 +18,6 @@ mysql_users:
     priv: "dimitri_db.*:ALL"
 
 
+apache_listen_port: 8080
+apache_vhosts:
+  - {servername: "itescia2.com", documentroot: "/var/www/vhosts/itescia2_com"}
