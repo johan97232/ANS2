@@ -3,6 +3,7 @@
   become: yes
   become_user: root
   vars_files:
-    - ~/.ansible/roles/geerlingguy.mysql/vars/main.yml
+    - vars/main.yml
   roles:
     - { role: geerlingguy.mysql }
+    
