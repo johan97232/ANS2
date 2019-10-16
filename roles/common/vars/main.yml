@@ -2,4 +2,10 @@
 packages:
         - htop
         - sshpass
-
+utilisateur:
+        
+        -  name: "dimitri"
+           password: '*'
+ 
+        - name: "johan"
+          password: '*'
